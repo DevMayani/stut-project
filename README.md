@@ -1,1 +1,1 @@
-# stut-project
+# a yoga app website
